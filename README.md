@@ -16,6 +16,9 @@ This class will only change the &lt;a&gt;'s appearance, not its functionality. U
 Normally, Bootstrap 3 doesn't implements the function to disable link functionality. We need to implement by ourselves. 
 The following described how to manage this issue.
 
+<h1>Requirements</h1>
+1. Bootstrap 3 (Untested with < 2)
+2. jQuery 1.10.2
 
 <h1>How to</h1>
 <br/>
