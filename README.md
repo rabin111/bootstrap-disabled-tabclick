@@ -28,8 +28,8 @@ First of all, you need to create a Bootstrap nav-tabs like this example, assign 
  <ul class="nav nav-tabs" id="myTab">
    <li id="body_tabHeaderWorkDetail" class="active"><a href="#workDetail" id="body_lnkHeaderWorkDetail" data-toggle="tab">Work Detail</a></li>
    <li id="body_tabHeaderDocument"><a href="#document" id="body_lnkHeaderDocument" data-toggle="tab">Document</a></li>
-   <li id="body_tabHeaderGuarantee" class="disabled"><a id="body_lnkHeaderGuarantee" data-toggle="tab">Guarantee</a></li>
-   <li id="body_tabHeaderAttachFile" class="disabled"><a id="body_lnkHeaderAttachFile" data-toggle="tab">Attach File</a></li>
+   <li id="body_tabHeaderGuarantee" class="disabled"><a href="#guarantee" id="body_lnkHeaderGuarantee" data-toggle="tab">Guarantee</a></li>
+   <li id="body_tabHeaderAttachFile" class="disabled"><a href="#attachFile" id="body_lnkHeaderAttachFile" data-toggle="tab">Attach File</a></li>
  </ul>
 ```
 
