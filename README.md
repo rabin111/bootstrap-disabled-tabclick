@@ -36,7 +36,10 @@ First of all, you need to create a Bootstrap nav-tabs like this example, assign 
 After you finish with this markup, just import a javascript library to your website like this
 
 ```html
-<script src="/js/bootstrap-disabled-tabclick.js" type="text/javascript"></script>
+<script src="js/bootstrap-disabled-tabclick.js" type="text/javascript"></script>
 ```
 
 Then the script will manage it for you. When you click to the disabled tab, script will active to your last tab automatically.
+
+<h1>Help?</h1>
+See, example.html
